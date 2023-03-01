@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-color: #081229; */
+
+  /* acchi image hai  */
+  /* background-image: url("https://wallpapertag.com/wallpaper/full/5/5/0/121185-car-background-1920x1200-lockscreen.jpg"); */
+
+  background-size: cover;
+  /* background-image: url("http://www.9to5carwallpapers.com/wp-content/uploads/2014/01/Abstract-toyota-supra-HD-Wallpaper.jpg"); */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

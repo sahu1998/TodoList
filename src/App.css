@@ -1,0 +1,12 @@
+.form{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 32px;
+}
+.treelabel .MuiTreeItem-label{
+font-size: 20px !important;
+}
